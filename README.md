@@ -1,6 +1,6 @@
 # var_powersupply
 # VARIABLE REGULATED DC BENCH POWER SUPPLY
- 
+ 0. See Schematic.pdf for quick review.
  1. The Schematic, PCB Layout and Gerbers were generated in KiCAD.  
  2. All the values have been selected with due reference to the Datasheets only.  
  3. Output = 1.23 - 13.53 V @3A Max (for this Topology)  
